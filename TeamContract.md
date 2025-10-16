@@ -20,9 +20,9 @@ This contract sets out shared expectations and commitments for how our team will
 
 * We will be using Discord as the primary form of communication, which includes any calls, messages to each member. As well as instagram for any urgent messages.
 
-* Teametes should reply to messages (for flexibility) within 1 or 2 days, however if it is urgent we are allowed to call one another or gather group for a call.
+* Teamates should reply to messages (for flexibility) within 1 or 2 days, however if it is urgent we are allowed to call one another or gather group for a call.
 
-* Teamtes should notify the team about any issues regarding deadlines, missing a lecture/lab, and any issues with the code that needs fixing.
+* Teamates should notify the team about any issues regarding deadlines, missing a lecture/lab, and any issues with the code that needs fixing.
 
 * We all believe that having open communication and an open mind is important, as we allow input from everyone on the team and their ideas. Additionally, we should respect each other's time, and consistent and equal contributions to the project.
 ---
